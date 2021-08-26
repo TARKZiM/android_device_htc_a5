@@ -1,2 +1,3 @@
-add_lunch_combo du_a5-eng
-add_lunch_combo du_a5-userdebug
+export LC_ALL=C
+export ALLOW_MISSING_DEPENDENCIES=true
+export TARGET_COMPILE_WITH_MSM_KERNEL=false
